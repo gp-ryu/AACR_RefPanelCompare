@@ -1,5 +1,8 @@
 # AACR_RefPanelCompare
 
+![Alt text](/src/23_poster.png)
+
+
 ### ABSTRACT
 ---
 The emergence of the large-scale public database facilitates genomic association study. An unprecedented number of samples emerged, which can elucidate valid genetic inferences and contribute to finding novel associations within various phenotypes. Most of the samples originated from European-based ancestry, however, which leads to the disparity of study for relatively minor ethnic groups. Unlike a European ancestry group, Asian has a limited participant number and information.
